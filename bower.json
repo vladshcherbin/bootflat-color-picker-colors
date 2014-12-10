@@ -1,0 +1,12 @@
+{
+  "name": "bootflat-color-picker-colors",
+  "version": "1.0.0",
+  "authors": [
+    "Uladzislau Shcharbin <vlad.shcherbin@gmail.com>"
+  ],
+  "description": "The package with SASS colors from Bootflat Color Picker.",
+  "keywords": [
+    "bootflat"
+  ],
+  "license": "MIT"
+}
